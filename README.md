@@ -1,7 +1,5 @@
 # HCI_system
-Jasne, w takim razie zmodyfikujmy tekst tak, aby jeszcze wyraźniej podkreślić, że to był Twój samodzielny projekt (Independent Project), zachowując przy tym profesjonalny, inżynierski styl.
 
-Oto zaktualizowana wersja README na GitHub:
 
 As the sole developer and author of this project, I engineered an innovative Human-Computer Interface (HCI) that redefines operating system interaction by eliminating the need for manual input. My primary objective was to independently design a solution that assists individuals with motor impairments or enhances ergonomic efficiency in specialized technical environments. The system relies on advanced real-time image analysis to precisely map head movements to mouse cursor coordinates.
 
